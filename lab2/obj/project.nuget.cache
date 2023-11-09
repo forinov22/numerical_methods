@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFMX0UaPK1UPHsNh/8+KrSu9vmXCZcunhQkxw2Uhh0TTyutwqhwhKyG6Sdqc6sQ16hTQXN8hj3g2WzZbPCAm9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forin\\semester3\\numerical_methods\\lab2\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forin\\.nuget\\packages\\mathnet.numerics.signed\\5.0.0\\mathnet.numerics.signed.5.0.0.nupkg.sha512",
+    "C:\\Users\\forin\\.nuget\\packages\\numsharp\\0.30.0\\numsharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\forin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
